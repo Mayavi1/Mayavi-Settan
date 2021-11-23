@@ -1,3 +1,22 @@
+Skip to content
+Mayavi1
+/
+Queen-Alexa
+Public
+forked from Mayavi1/Queen-Alexa
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Queen-Alexa/dl.js
+@Mayavi1
+Mayavi1 File Upload by Mayavi Settan
+ 1 contributor
+1795 lines (1748 sloc)  55.3 KB
 const { JSDOM } = require('jsdom')
 const { fromBuffer } = require('file-type')
 const fetch = require('node-fetch')
@@ -1792,4 +1811,16 @@ module.exports.wallpapper =wallpapper
 module.exports.apkmody = apkmody
 module.exports.moddroid = moddroid
 module.exports.palingmurah = palingmurah
-
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
