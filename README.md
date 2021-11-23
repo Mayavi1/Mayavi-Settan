@@ -1,4 +1,4 @@
-# ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝DOGIE ʙᴏᴛ
+# MAYAVI-SETTAN'S BOT
        
 </p>
 <div align="center">
@@ -8,7 +8,7 @@
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mayavi1/Queen-Alexa)
-# ```Mayavi-Settan's-BOT```
+# ```PRIVATE BOT```
 <p align="center">
 <a href="https://github.com/Mayavi1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mayavi1?color=red&style=flat-square"></a>
 <a href="https://github.com/Mayavi1/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayavi1/bug-bot?color=blue&style=flat-square"></a>
