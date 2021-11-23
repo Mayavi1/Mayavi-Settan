@@ -1,19 +1,14 @@
 # ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝DOGIE ʙᴏᴛ
-
-<img
-        src="https://i.imgur.com/1u3wec7.jpeg/
-            alt="Typing SVG"
-        />
-    </a>
+       
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
-</p>g
+  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.imgur.com/1u3wec7.jpeg" alt="GIF" width="128" height="128"/>
+</p>
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mayavi1/Queen-Alexa)
-# ```MADE BY MAYAVI```
+# ```Mayavi-Settan's-BOT```
 <p align="center">
 <a href="https://github.com/Mayavi1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mayavi1?color=red&style=flat-square"></a>
 <a href="https://github.com/Mayavi1/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayavi1/bug-bot?color=blue&style=flat-square"></a>
