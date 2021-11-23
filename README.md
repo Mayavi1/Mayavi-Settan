@@ -1,7 +1,7 @@
 # ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝DOGIE ʙᴏᴛ
 
 <img
-        src="IMG-20211122-WA0001.jpg
+        src="DONT + CLICK + ON+ THE+LINK
         />
     </a>
 </p>
