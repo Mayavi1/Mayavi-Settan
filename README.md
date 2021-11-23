@@ -1,7 +1,7 @@
 # ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝DOGIE ʙᴏᴛ
 
 <img
-        src="https://i.imgur.com/1u3wec7.jpeg/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
+        src="https://i.imgur.com/1u3wec7.jpeg/
             alt="Typing SVG"
         />
     </a>
