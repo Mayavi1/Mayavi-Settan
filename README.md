@@ -26,7 +26,7 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@Mayavi1/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
 
 ## `CHANGE SESSION`
 
