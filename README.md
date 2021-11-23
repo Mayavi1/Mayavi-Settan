@@ -1,8 +1,7 @@
 # ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝DOGIE ʙᴏᴛ
 
 <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
-            alt="Typing SVG"
+        src="IMG-20211122-WA0001.jpg
         />
     </a>
 </p>
