@@ -43,9 +43,6 @@ WhatsApp Bot
 - Owner Name [Here](https://github.com/Mayavi1/Queen-Alexa/blob/main/settings.json#L14)
 - Bot Name [Here](https://github.com/Mayavi1/Queen-Alexa/blob/main/settings.json#L15)
 
-## `CHANGE DYNO`
-
-Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 
 ----------
 
@@ -56,10 +53,4 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://i.ibb.co/P18NNM2/20211024-191503.jpg" />
-</p>
-
-
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/hypermod)
+  <a href="https://youtu.be/BcM
