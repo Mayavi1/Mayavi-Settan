@@ -7,7 +7,7 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+  <a href="https://youtu.be/BcMIibIUmHc"><img src="IMG-20211122-WA0001.jpg\>
 </p>g
 WhatsApp Bot
 
