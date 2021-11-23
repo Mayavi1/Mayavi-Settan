@@ -13,7 +13,7 @@
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mayavi1/Queen-Alexa)
-# ```ALEXA-BUG-BOT```
+# ```MADE BY MAYAVI```
 <p align="center">
 <a href="https://github.com/Mayavi1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mayavi1?color=red&style=flat-square"></a>
 <a href="https://github.com/Mayavi1/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayavi1/bug-bot?color=blue&style=flat-square"></a>
